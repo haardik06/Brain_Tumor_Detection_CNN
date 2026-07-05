@@ -125,6 +125,18 @@ python predict.py
 
 ---
 
+## Dataset
+
+The dataset is not included in this GitHub repository due to its size.
+
+Download the Brain MRI dataset from Kaggle and place it inside:
+
+```
+dataset/
+├── train/
+└── test/
+```
+
 ## Trained Model
 
 The trained model is not included because it exceeds GitHub's 100 MB file size limit.
